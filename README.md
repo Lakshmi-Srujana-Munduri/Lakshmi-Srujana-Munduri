@@ -1,56 +1,108 @@
-👋 Hi, I'm Lakshmi Srujana Munduri!
-🎓 BTech in Information Technology, Final Year
-💡 Passionate about AI, full-stack development, and data-driven applications
-📫 lakshmisrujana.623@gmail.com | 📞 +91 9494455489
+# 👋 Hi, I'm Lakshmi Srujana Munduri!
 
-🌐 Coding Profiles
-<p align="center"> <a href="https://leetcode.com/u/21b01a12b7/" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.codechef.com/users/srujana_12b7" target="_blank"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.hackerrank.com/profile/21b01a12b7" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/Lakshmi-Srujana-Munduri" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" height="40" /> </a> </p>
-🧠 Skills
-Languages: Python, Java, HTML, CSS
-Tools: Jupyter Notebook, VS Code
-Databases: SQL
+🎓 Final year BTech IT student at *Shri Vishnu Engineering College for Women*  
+💻 Passionate about *full-stack development, **machine learning, and **automation*  
+📬 Reach me: lakshmisrujana.623@gmail.com | +91 9494455489  
 
-🚀 Projects
-Decoding Periodontal Disease with X-rays
-🔬 AI-based system for early detection of periodontal disease using X-rays
-🧠 Utilized MobileNetV2, VGG16 with transfer learning for accuracy improvement
+## 🌐 Coding Profiles
 
-Hostel Management System
-🏠 Static website for showcasing hostel facilities
-💻 Built with HTML, CSS, and Bootstrap
+<p align="center">
+  <a href="https://leetcode.com/u/21b01a12b7/" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/srujana_12b7" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/21b01a12b7" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="40" />
+  </a>
+</p>
 
-Book Recommendations System
-📚 Recommender system using collaborative & content-based filtering
-⭐ Suggests top-rated and interest-based books
+---
 
-Mental Fitness Tracker
-🧘 ML model predicting mental fitness levels
-🎯 Provides personalized insights and recommendations
+## 🚀 Tech Stack
 
-📜 Certifications
-Azure Fundamentals (AZ-900) - Microsoft
+*Languages*  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-Data Analytics with Python - NPTEL
+*Web Development*  
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-Smart Coder - Smart Interviews
+*Tools & Technologies*  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 
-Machine Learning with Python - IBM
+---
 
-Java Spring Boot - Infosys Springboard
+## 🏆 Projects
 
-📚 Education
-BTech - Information Technology
-Shri Vishnu Engineering College for Women, Bhimavaram
-📅 2021–2025 | 📈 GPA: 8.5
+- *Smart Surveillance System* (Feb 2025)  
+  Security alert system using CCTV with object detection and face recognition (OpenCV)
 
-Intermediate - MPC
-Veda Junior College, Tatipaka
-📅 2019–2021 | 📈 97.3%
+- *Dora Virtual Teams* (Dec 2024)  
+  Team management application built with TypeScript
 
-Class 10 - SSC
-Narayana School, Razole
-📅 2018–2019 | 📈 GPA: 10
+- *Online Licence Verification* (Jan 2024)  
+  Web application for validating vehicle licenses (Java, SQL)
 
-🤝 Let's Connect!
+- *Product Demand Prediction* (Mar 2023)  
+  ML project forecasting product sales (Python)
 
+---
 
+## 💼 Experience
+
+*Software Intern* @ IBM, Bangalore (July 2024 - Dec 2024)  
+- Received appreciation for my work
+- Worked on enterprise software solutions
+
+---
+
+## 📚 Education
+
+*BTech in CSE*  
+Shri Vishnu Engineering College for Women (2021-2025)  
+CGPA: 9.14
+
+*Intermediate*  
+Veda Junior College (2019-2021)  
+Marks: 989/1000
+
+*Class 10*  
+Vivekananda EM School  
+GPA: 10
+
+---
+
+## 🏅 Achievements
+
+- 🥉 3rd place in college-level coding contest
+- 🥇 1st place in Coding Scoreboard (college level)
+- Oracle Certified (Java & DBMS)
+- Cisco Certified (Cybersecurity)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja12112004@gmail.com)
