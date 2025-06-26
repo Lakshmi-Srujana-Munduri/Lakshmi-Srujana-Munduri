@@ -38,71 +38,61 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 *Tools & Technologies*  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+
 
 ---
 
 ## 🏆 Projects
 
-- *Smart Surveillance System* (Feb 2025)  
-  Security alert system using CCTV with object detection and face recognition (OpenCV)
+- *Decoding Periodonatal Disease with X-rays*   
+  Model which is used for doctors to predict the level of the the disease with x-rays (Deep Learning)
 
-- *Dora Virtual Teams* (Dec 2024)  
-  Team management application built with TypeScript
+- *Book Recomendation System*   
+  Recommends books to the users based on their interest (Machine Learning)
 
-- *Online Licence Verification* (Jan 2024)  
-  Web application for validating vehicle licenses (Java, SQL)
+- *Hostel Management System* 
+  Web application for checking the avaliability of hostel and exploring the college features (HTML,CSS)
 
-- *Product Demand Prediction* (Mar 2023)  
-  ML project forecasting product sales (Python)
-
----
-
-## 💼 Experience
-
-*Software Intern* @ IBM, Bangalore (July 2024 - Dec 2024)  
-- Received appreciation for my work
-- Worked on enterprise software solutions
+- *Mental Fitness Tracker*   
+  ML project for checking the mental fitness level (Machine Learning)
 
 ---
 
 ## 📚 Education
 
-*BTech in CSE*  
+*BTech in IT*  
 Shri Vishnu Engineering College for Women (2021-2025)  
-CGPA: 9.14
+CGPA: 8.53
 
 *Intermediate*  
 Veda Junior College (2019-2021)  
-Marks: 989/1000
+Marks: 973/1000
 
 *Class 10*  
-Vivekananda EM School  
+Narayana EM School  
 GPA: 10
 
 ---
 
 ## 🏅 Achievements
 
-- 🥉 3rd place in college-level coding contest
-- 🥇 1st place in Coding Scoreboard (college level)
-- Oracle Certified (Java & DBMS)
+
+- Microsoft Certified (Azure Fundamentals)
 - Cisco Certified (Cybersecurity)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshmi-Srujana-Munduri&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi-Srujana-Munduri&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teja12112004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/lakshmi-srujana-munduri-b28683250/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmisrujana.623@gmail.com)
