@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lakshmi Srujana Munduri!
 
 🎓 Final year BTech IT student at *Shri Vishnu Engineering College for Women*  
-💻 Passionate about *full-stack development, **machine learning, and **automation*  
+💻 Passionate about **full-stack development** , **machine learning** , and **automation**  
 📬 Reach me: lakshmisrujana.623@gmail.com | +91 9494455489  
 
 ## 🌐 Coding Profiles
