@@ -50,11 +50,14 @@
 - *Decoding Periodonatal Disease with X-rays*   
   Model which is used for doctors to predict the level of the the disease with x-rays (Deep Learning)
 
+
 - *Book Recomendation System*   
   Recommends books to the users based on their interest (Machine Learning)
 
-- *Hostel Management System* 
+
+- *Hostel Management System*  
   Web application for checking the avaliability of hostel and exploring the college features (HTML,CSS)
+
 
 - *Mental Fitness Tracker*   
   ML project for checking the mental fitness level (Machine Learning)
