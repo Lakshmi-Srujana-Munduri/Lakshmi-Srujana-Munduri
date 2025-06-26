@@ -99,6 +99,6 @@ GPA: 10
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/lakshmi-srujana-munduri-b28683250/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmi-srujana-munduri-b28683250/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmisrujana.623@gmail.com)
 💼 [!Resume](https://drive.google.com/file/d/1AdFqnu9ppPo33YnEP_l1QsodFgVy4MCr/view?usp=drive_link).
